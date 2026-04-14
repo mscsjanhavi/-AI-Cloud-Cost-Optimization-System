@@ -23,3 +23,38 @@ An AI-powered cloud cost optimization system that detects anomalies, predicts fu
 ```bash
 pip install -r requirements.txt
 streamlit run cloud_app.py
+
+
+📂 Sample Data Format
+Service,Usage (%),Cost ($),Date
+VM,80,5000,2026-01-01
+Storage,20,3000,2026-01-01
+
+
+💼 Use Case
+
+Designed for enterprise cloud environments (Azure/AWS) to:
+
+Identify cost inefficiencies
+Detect anomalies
+Optimize resource usage
+
+
+👨‍💻 Author
+
+Your Name
+
+
+---
+
+## 🌐 Push to GitHub
+
+Steps:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit - AI Cloud Optimization System"
+git branch -M main
+git remote add origin https://github.com/yourusername/repo-name.git
+git push -u origin main
