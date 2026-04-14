@@ -1,0 +1,4 @@
+Service,Usage (%),Cost ($),Date
+VM,80,5000,2026-01-01
+Storage,20,3000,2026-01-01
+Database,75,4000,2026-01-01
